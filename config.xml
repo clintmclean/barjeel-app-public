@@ -7,7 +7,7 @@
 	<name>Barjeel Art Foundation</name>
 
 	<description>
-        Put a description here.
+        An app for Barjeel Art Foundation.
 	</description>
 
 	<author href="http://wearethoughtfox.com" email="hello@wearethoughtfox.com">
@@ -39,7 +39,6 @@
 		<!-- Spotlight Icon -->
 		<icon src="icon-40.png" gap:platform="ios" width="40" height="40" />
 		<icon src="icon-40@2x.png" gap:platform="ios" width="80" height="80" />
-
 
 	  <!-- Customize your app and platform with the preference element. -->
     <preference name="orientation"                value="default" />        <!-- all: default means both landscape and portrait are enabled -->
