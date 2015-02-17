@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns	= "http://www.w3.org/ns/widgets"
+	xmlns:gap	= "http://phonegap.com/ns/1.0"
+	id		    = "org.barjeelartfoundation.barjeel"
+	version 	= "1.0">
+
+	<name>Barjeel Art Foundation</name>
+
+	<description>
+        Put a description here.
+	</description>
+
+	<author href="http://wearethoughtfox.com" email="hello@wearethoughtfox.com">
+		Clint McLean, Una Janicijevic, Rob Carroll 
+	</author>
+
+  <icon src="icons/icon_72.png" width="72" height="72" />
+  <icon src="icons/icon_48.png" width="48" height="48" />
+  <icon src="icons/icon_36.png" width="36" height="36" />
+
+  <gap:splash src="icons/splash.png" />
+  <gap:platform name="ios" />
+	<gap:platform name="android" />
+
+	  <!-- Customize your app and platform with the preference element. -->
+    <preference name="orientation"                value="default" />        <!-- all: default means both landscape and portrait are enabled -->
+    <preference name="target-device"              value="universal" />      <!-- all: possible values handset, tablet, or universal -->
+
+    <!--
+        Define a specific version of PhoneGap to build into your app.
+        <preference name="phonegap-version"       value="3.5.0" />
+    -->
+
+</widget>
