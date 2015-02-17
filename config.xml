@@ -1,51 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns	= "http://www.w3.org/ns/widgets"
-	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		    = "org.barjeelartfoundation.barjeel"
-	version 	= "1.0">
+
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "org.barjeelartfoundation.barjeel"
+        version   = "1.0.0">
 
 	<name>Barjeel Art Foundation</name>
+	<description>An app for Barjeel Art Foundation.</description>
 
-	<description>
-        An app for Barjeel Art Foundation.
-	</description>
+	<preference name="phonegap-version" value="3.6.3" />
 
 	<author href="http://wearethoughtfox.com" email="hello@wearethoughtfox.com">
 		Clint McLean, Una Janicijevic, Rob Carroll 
 	</author>
-
-  <gap:platform name="ios" />
-	<gap:platform name="android" />
-
-	<gap:splash src="splash.png" />
-
-	<!-- see http://docs.build.phonegap.com/en_US/configuring_icons_and_splash.md.html#Icons%20and%20Splash%20Screens --->
-
-		<!-- iPhone 6 / 6+ -->
-		<icon src="icon-60@3x.png" gap:platform="ios" width="180" height="180" />
-
-		<!-- iPhone / iPod Touch  -->
-		<icon src="icon-60.png" gap:platform="ios" width="60" height="60" />
-		<icon src="icon-60@2x.png" gap:platform="ios" width="120" height="120" />
-
-		<!-- iPad -->
-		<icon src="icon-76.png" gap:platform="ios" width="76" height="76" />
-		<icon src="icon-76@2x.png" gap:platform="ios" width="152" height="152" />
-
-		<!-- Settings Icon -->
-		<icon src="icon-small.png" gap:platform="ios" width="29" height="29" />
-		<icon src="icon-small@2x.png" gap:platform="ios" width="58" height="58" />
-
-		<!-- Spotlight Icon -->
-		<icon src="icon-40.png" gap:platform="ios" width="40" height="40" />
-		<icon src="icon-40@2x.png" gap:platform="ios" width="80" height="80" />
-
-	  <!-- Customize your app and platform with the preference element. -->
-    <preference name="orientation"                value="default" />        <!-- all: default means both landscape and portrait are enabled -->
-    <preference name="target-device"              value="universal" />      <!-- all: possible values handset, tablet, or universal -->
-
-    <!-- Define a specific version of PhoneGap to build into your app.  -->
-    <preference name="phonegap-version"       value="3.6.3" />
-   
+	
+	<gap:platforms>
+   <gap:platform name="android" minVersion="2.3" />
+   <gap:platform name="ios" />
+</gap:platforms>
 
 </widget>
