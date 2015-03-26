@@ -67,5 +67,40 @@
     "choices": ["Both feature modern Gulf architecture", "employ bold colours and geometric shapes  ", "Both represent landscapes of Aleppo"],
     "correctAnswer": 2,
     "explanation": "Answer 10 Each employs bold colours and geometric shapes."
+  },
+    {
+    "id": 11,
+    "question": "11. What's the connection - 1? MOHAMAD-SAID BAALBAKI’S WORK ‘ONE HAND CANNOT CLAP ALONE’ AND MONA HATOUM’S WORK ‘WITNESS’",
+    "choices": ["Both were inspired by the ‘Place des Martyres’ monument in Beirut", "Both were produced in the 1990s   ", "Both were made by Syrian artists"],
+    "correctAnswer": 1,
+    "explanation": "Answer 11 Both were inspired by the ‘Place des Martyres’ monument in Beirut."
+  },
+    {
+    "id": 12,
+    "question": "12. What's the connection - 1? DIA AZZAWI’S 1983 SET OF ETCHINGS AND MUSTAFA HALLAJ’S 1993 WOODCUT PRINT",
+    "choices": ["Both were inspired by the Egyptian Revolution of 1952", "Both were produced by Iraqi artists", "Both address the events of Sabra and Shatila"],
+    "correctAnswer": 3,
+    "explanation": "Answer 12 These artworks address the events of Sabra and Shatila."
+  },
+    {
+    "id": 13,
+    "question": "13. What's the connection - 1? SKAMAL BOULLATA’S WORK ‘LA ANA ILLA ANA’ AND SAMIR SAYEGH’S WORK ‘BARAKA’",
+    "choices": ["Both make use of gold leaf", "Both depict Biblical verses", "Both use geometry to abstract Arabic script"],
+    "correctAnswer": 0,
+    "explanation": "Answer 13 The arabic text in this work is abstracted through geometry."
+  },
+    {
+    "id": 14,
+    "question": "14. What's the connection - 1? SULEIMAN MANSOUR’S WORK ‘QUIET MORNING’ AND LARISSA SANSOUR’S DIGITAL WORK ‘NATION ESTATE - OLIVE TREE’",
+    "choices": ["Both were made using digital technology", "Both were produced in the 1990s", "Both use the olive tree to represent Palestinian identity"],
+    "correctAnswer": 3,
+    "explanation": "Answer 14 Both artists use the olive tree as an icon to represent Palestinian identity."
+  },
+    {
+    "id": 15,
+    "question": "15. What's the connection - 1? ALI AL ABDAN’S WORK ‘ON AL KHAN BEACH’ AND BAYA’S ‘FEMME A LA ROBE ROSE’",
+    "choices": ["Both were produced during the artists’ teenage years", "Both were made by Algerian artists", "Both use watercolour as a medium"],
+    "correctAnswer": 0,
+    "explanation": "Answer 15 These works were produced during the artists’ teenage years."
   }
 ]  
