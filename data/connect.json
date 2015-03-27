@@ -8,13 +8,13 @@
 	"about": "Director of the Serpentine Gallery in London",
 	"artworks": [
 	{
-		"title":"Purple Pears",
-		"image":"something.jpg",
+		"title":"Demoncracy",
+		"image":"1_Demoncracy.jpg",
 		"caption":"Acrylic on canvas, 2013. 130 x 130 cm Sinan Hussein b. 1977, Iraq"
 	},
 	{
-		"title":"Red Pears",
-		"image":"something.jpg",
+		"title":"Plotting Table",
+		"image":"1_Plotting-Table.jpg",
 		"caption":"Acrylic on canvas, 2013. 130 x 130 cm Sinan Hussein b. 1977, Iraq"
 	}
 	]
