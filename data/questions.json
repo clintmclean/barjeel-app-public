@@ -1,12 +1,12 @@
 [
  {
     "id": 1,
-    "question": "1. What's the connection - 1? DEMONCRACY BY KADER ATTIA AND PLOTTING TABLE BY MONA HATOUM",
+    "question": "‘Demoncracy’ by Kader Attia And ‘Plotting Table’ by Mona Hatoum",
     "choices": ["Both artworks use light as a central element", "Both are by artists born in Iraq", "Both are guache and ink artworks"],
     "correctAnswer": 1,
-    "explanation": "Answer 1 Both artworks use light as a central element.",
-    "firstArtwork": "1_Demoncracy.jpg",
-    "secondArtwork": "1_Plotting-Table.jpg"
+    "explanation": "Both artworks use light as a central element.",
+    "firstArtwork": "1_Demoncracy",
+    "secondArtwork": "1_Plotting-Table"
   },
    {
     "id": 2,
