@@ -14,8 +14,8 @@
     "choices": ["Both are works painted by Youssef Kamel", "Both are works created by Farid Belkahia", "Both are works made in 1925"],
     "correctAnswer": 1,
     "explanation": "Answer 2 They were both painted by Egyptian artist Youssef Kamel.",
-    "firstArtwork": "1_Demoncracy.jpg",
-    "secondArtwork": "1_Plotting-Table.jpg"
+    "firstArtwork": "2_Open_Gate",
+    "secondArtwork": "2_Tempietto"
   },
    {
     "id": 3,
@@ -23,8 +23,8 @@
     "choices": ["Both feature infants", "Both are monochromatic artworks", "Both use photography"],
     "correctAnswer": 3,
     "explanation": "Answer 3 Both artworks are photography-based.",
-    "firstArtwork": "1_Demoncracy.jpg",
-    "secondArtwork": "1_Plotting-Table.jpg"
+    "firstArtwork": "3_Big_Baba",
+    "secondArtwork": "3_Samry"
   },
    {
     "id": 4,
@@ -32,8 +32,8 @@
     "choices": ["Both are sculptures", "Both were born in Kuwait", "Both paint with their fingers instead of brushes"],
     "correctAnswer": 2,
     "explanation": "Answer 4 Al Kazi and Khalaf are both Kuwaiti nationals.",
-    "firstArtwork": "1_Demoncracy.jpg",
-    "secondArtwork": "1_Plotting-Table.jpg"
+    "firstArtwork": "4_Munira_Al_Kazi",
+    "secondArtwork": "4_Adel_Al_Khalaf"
   },
    {
     "id": 5,
@@ -41,8 +41,8 @@
     "choices": ["Both works incorporate Arabic calligraphy", "The artists are half-brothers", "Both feature the homelands of the artists"],
     "correctAnswer": 1,
     "explanation": "Answer 5 Both artists make use of Arabic calligraphy in these works.",
-    "firstArtwork": "1_Demoncracy.jpg",
-    "secondArtwork": "1_Plotting-Table.jpg"
+    "firstArtwork": "5_ASCENSION_XIII",
+    "secondArtwork": "5_If_Ever_Forgetful_Mention_Allah"
   },
     {
     "id": 6,
