@@ -1,16 +1,36 @@
 [
 	{
 	"id": "1",
-	"title": "History of Dissent 1",
-	"description": "Brief statement on their selection of five works. Generally this will be two or three sentences. We can let it go onto another ‘page’ if necessary though typically this one will be sufficient. Brief statement on their selection of five works. Generally this will be two or three sentences. We can let it go onto another ‘page’ one will be sufficient.",
-	"curator": "Anne Temkin 1",
+	"title": "Faces",
+	"description": "I was originally for photos to make a selection, but when I saw this set of portraits, I was quite drawn to them. The portraits reflect reflect sadness, loneliness, religion, race and even pop culture.",
+	"curator": "Hind Mezaina",
 	"curator-image": "square.jpg",
-	"about": "Director of the Serpentine Gallery in London",
+	"about": " Photographer and writer www.theculturist.com",
 	"artworks": [
 	{
-		"title":"Purple Pears",
+		"title":"The Parting",
 		"image":"something.jpg",
-		"caption":"Acrylic on canvas, 2013. 130 x 130 cm Sinan Hussein b. 1977, Iraq"
+		"caption":"Thuraya Al Baqsami, Kuwait, Etching, 1991, 35 x 40 cm"
+	},
+      {
+		"title":" Femme et Mur",
+		"image":"something.jpg",
+		"caption":"Mohammed Issiakhem, Algeria, Oil on canvas, 162 x 130 cm "
+	},
+      {
+		"title":"Portrait",
+		"image":"something.jpg",
+		"caption":"Mohammed Al Mazrouie, UAE, Mixed media on wood, 2011, 37 x 26 x 1.5 cm"
+	},
+      {
+		"title":"Faten",
+		"image":"something.jpg",
+		"caption":"Chant Avedissian, Egypt, Gouache on cardboard, 2008, 49 x 69 cm"
+	},
+      {
+		"title":"Nubian Girl",
+		"image":"something.jpg",
+		"caption":" Ervand Demerdjian, Armenia, Oil on canvas, undated, 30 x 40 cm"
 	},
 	{
 		"title":"Red Pears",
